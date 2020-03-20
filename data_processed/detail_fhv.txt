@@ -1,0 +1,8 @@
+Dispatching_base_num            1
+Pickup_DateTime                 0
+DropOff_datetime         72807159
+PUlocationID             42055251
+DOlocationID             84268370
+SR_Flag                 173463302
+
+192280677 entries
